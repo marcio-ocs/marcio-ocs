@@ -1,0 +1,16 @@
+name: Update Profile
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Roda todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: marcio-ocs
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark

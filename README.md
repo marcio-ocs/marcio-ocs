@@ -1,61 +1,66 @@
-# Márcio Oliveira da Costa Silva
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=M%C3%A1rcio%20Oliveira&fontSize=50&fontAlignY=35&animation=fadeIn)
 
-**Diretor de Negócios e TI** | Professor | Especialista em Transformação Digital
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=marcio-ocs&abbreviated=true&label=Visualiza%C3%A7%C3%B5es&color=0055FF&style=for-the-badge" alt="Profile views" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/marcio-oliveira-da-costa-silva) · [E-mail](mailto:marcio.ocs@gmail.com) · [GitHub](https://github.com/marcio-ocs)
-
----
-
-### Sobre
-
-Com mais de 10 anos de experiência, atuo na interseção entre **negócios e tecnologia**, promovendo a transformação de processos e a implementação de ferramentas robustas para otimização de procedimentos. Minha atuação é guiada pela liderança colaborativa, ética e foco em resultados mensuráveis.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=0055FF&width=600&lines=Diretor+de+Neg%C3%B3cios+e+TI;Especialista+em+Transforma%C3%A7%C3%A3o+Digital;Professor+de+Machine+Learning+e+Big+Data;10%2B+anos+de+experi%C3%AAncia)](https://git.io/typing-svg)
 
 ---
 
-### Competências
+## Sobre
 
-**Gestão & Estratégia**  
-BPMN · KPIs · Dashboards Gerenciais · BABOK · Levantamento de Requisitos · SLA
+Com mais de 10 anos de experiência, atuo na interseção entre **negócios e tecnologia**, promovendo a transformação de processos e a implementação de ferramentas robustas para otimização de procedimentos.
 
-**Metodologias & Governança**  
-Scrum · Product Owner · ITIL Foundation
-
-**Tecnologia & Dados**  
-Machine Learning · Big Data · DevOps · ETL (Alteryx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-oliveira-da-costa-silva)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcio.ocs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcio-ocs)
 
 ---
 
-### Experiência
+## Tecnologias & Ferramentas
 
-**Diretor de Negócios e TI**  
-Prosperus RH · Jan 2026 – Presente  
-Transformação de desafios organizacionais em crescimento, utilizando inteligência de processos e gestão de pessoas.
+![BPMN](https://img.shields.io/badge/BPMN-0055FF?style=for-the-badge&logo=databricks&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0055FF?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0055FF?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big%20Data-0055FF?style=for-the-badge&logo=apachespark&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0055FF?style=for-the-badge&logo=jenkins&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0055FF?style=for-the-badge&logo=alteryx&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-0055FF?style=for-the-badge&logo=ibm&logoColor=white)
 
-**Professor Universitário**  
-UNINASSAU · Jun 2024 – Presente  
-Ministério de disciplinas em Machine Learning, Big Data, DevOps e Infraestrutura de Dados.
+## Certificações
 
-**Instrutor de Desenvolvimento de Sistemas**  
-SENAI BAHIA · Nov 2022 – Jan 2026  
-Planejamento e docência no curso Técnico em Desenvolvimento de Sistemas.
-
-**Analista de Negócios e TI**  
-Dower Institute · Jan 2022 – Presente  
-Otimização de processos em plataformas digitais, identificação de gargalos e definição de SLAs.
-
----
-
-### Certificações
-
-- ITIL® Foundation  
-- Formação em Análise de Negócios (BABOK® v3)  
-- Business Analytics Professional  
-- Product Owner Practitioner Certified  
+![ITIL Foundation](https://img.shields.io/badge/ITIL®%20Foundation-0055FF?style=for-the-badge&logo=ibm&logoColor=white)
+![BABOK v3](https://img.shields.io/badge/BABOK®%20v3-0055FF?style=for-the-badge&logo=databricks&logoColor=white)
+![Business Analytics](https://img.shields.io/badge/Business%20Analytics%20Professional-0055FF?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Product Owner](https://img.shields.io/badge/Product%20Owner%20Practitioner-0055FF?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-### Contato
+## Estatísticas do GitHub
 
-Estou aberto a conexões e oportunidades que envolvam inovação e eficiência operacional.
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=marcio-ocs&show_icons=true&count_private=true&theme=default&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-ocs&layout=compact&theme=default&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-[LinkedIn](https://www.linkedin.com/in/marcio-oliveira-da-costa-silva) · [E-mail](mailto:marcio.ocs@gmail.com)
+![snake](https://raw.githubusercontent.com/marcio-ocs/marcio-ocs/output/github-snake-dark.svg)
+
+---
+
+## Experiência em Destaque
+
+- **Diretor de Negócios e TI** | Prosperus RH (2026 - Presente)
+- **Professor Universitário** | UNINASSAU (2024 - Presente)
+- **Analista de Negócios e TI** | Dower Institute (2022 - Presente)
+- **Instrutor de Desenvolvimento de Sistemas** | SENAI BAHIA (2022 - 2026)
+
+---
+
+⭐ *"Ajudar empresas a saírem do operacional e alcançarem um novo patamar de performance."*
