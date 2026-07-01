@@ -1,6 +1,6 @@
 # Márcio Oliveira
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=600&color=1E3A5F&width=550&lines=Diretor+de+Neg%C3%B3cios+e+TI;Especialista+em+Transforma%C3%A7%C3%A3o+Digital;Professor+de+Machine+Learning+e+Big+Data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=600&color=1E3A5F&width=550&lines=Diretor+de+Neg%C3%B3cios+e+TI;Especialista+em+Transforma%C3%A7%C3%A3o+Digital;Professor+Universitário)](https://git.io/typing-svg)
 
 ---
 
